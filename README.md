@@ -49,7 +49,7 @@ This document contains the mandatory rules and principles that apply to anyone c
 
 ## 6. Open Store Publishing
 
-– Updated systems or new projects based on the Oroto-Kernel must be published in the **Open Store** directory for easy access by the community.
+– Updated systems or new projects based on the Oroto-Kernel must be published in the **everywhere** directory for easy access by the community.
 – This directory is kept open to the public for both learning and testing purposes.
 
 ---
